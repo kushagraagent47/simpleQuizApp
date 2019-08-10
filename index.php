@@ -17,8 +17,8 @@
         <link rel="stylesheet" href="css/style.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
-        <script src="bootstrap-3.3.7/js/bootstrap.min.js" </script>
-        <script src="bootstrap-3.3.7/js/bootstrap.js" </script>
+        <script src="bootstrap-3.3.7/js/bootstrap.min.js"> </script>
+        <script src="bootstrap-3.3.7/js/bootstrap.js"> </script>
 
 
 
@@ -122,9 +122,7 @@
 
 <div class="fm">
 
-<b>Beta Version-2016</b><br>
-<b>Developed By <a href="https://fb.com/ashadullah.shawon">Ashadullah Shawon</a></b>
-
+<
 </div>
 </div>
 
